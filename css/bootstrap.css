@@ -491,7 +491,7 @@ mark,
   height: auto;
 }
 
-.projectImg {
+#project-img {
   max-width: 50%;
   height: auto;
 }
