@@ -491,8 +491,9 @@ mark,
   height: auto;
 }
 
-#project-img {
-  height: 200px;
+.img-project {
+  max-width: 300px;
+  height: 350px;
 }
 
 .img-thumbnail {
@@ -566,6 +567,7 @@ pre code {
   margin-right: auto;
   margin-left: auto;
 }
+
 
 @media (min-width: 576px) {
   .container {
