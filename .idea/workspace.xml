@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9027c9f-1060-4f67-bfe6-94bf1ebf2eb7" name="Default Changelist" comment="">
+    <list default="true" id="c9027c9f-1060-4f67-bfe6-94bf1ebf2eb7" name="Default Changelist" comment="Updated Project content.">
+      <change afterPath="$PROJECT_DIR$/assets/OrderLineExample.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/ProductForm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/TestExamples.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/projects.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +92,7 @@
       <workItem from="1584627691495" duration="863000" />
       <workItem from="1584631715597" duration="1076000" />
       <workItem from="1584651091100" duration="2733000" />
-      <workItem from="1584700433818" duration="1664000" />
+      <workItem from="1584700433818" duration="9052000" />
     </task>
     <servers />
   </component>
@@ -97,6 +101,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Updated Project content." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Project content." />
   </component>
   <component name="WindowStateProjectService">
     <state x="585" y="114" key="CommitChangelistDialog2" timestamp="1584702187168">

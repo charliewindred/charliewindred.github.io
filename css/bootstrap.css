@@ -568,6 +568,10 @@ pre code {
   margin-left: auto;
 }
 
+.container img {
+  text-align: center
+}
+
 
 @media (min-width: 576px) {
   .container {
